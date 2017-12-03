@@ -4,7 +4,7 @@
 | テーマ名(仮)    | サンプルLink         | 元ネタ                                      |
 |-----------------+----------------------+---------------------------------------------|
 | artifice        | [[./artifice/artifice.html][artifice.html]]        | http://cse3521.artifice.cc/                 |
-| bigblow         | [[./bigblow.html][bigblow.html]]         | http://www.pirilampo.org/                   |
+| bigblow         | [[./bigblow/bigblow.html][bigblow.html]]         | http://www.pirilampo.org/                   |
 | gongzhitaao     | [[./gongzhitaao.html][gongzhitaao.html]]     | http://gongzhitaao.org/orgcss/              |
 | norang          | [[./norang.html][norang.html]]          | http://doc.norang.ca/org-mode.html          |
 | readtheorg      | [[./readtheorg.html][readtheorg]]           | http://www.pirilampo.org/styles/readtheorg/ |
