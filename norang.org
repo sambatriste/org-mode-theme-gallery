@@ -1,2 +1,0 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://doc.norang.ca/org.css"/>
-#+INCLUDE: org-example.org

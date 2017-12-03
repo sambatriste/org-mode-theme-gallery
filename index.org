@@ -6,13 +6,13 @@
 | artifice        | [[./artifice/artifice.html][artifice.html]]        | http://cse3521.artifice.cc/                 |
 | bigblow         | [[./bigblow/bigblow.html][bigblow.html]]         | http://www.pirilampo.org/                   |
 | gongzhitaao     | [[./gongzhitaao/gongzhitaao.html][gongzhitaao.html]]     | http://gongzhitaao.org/orgcss/              |
-| norang          | [[./norang.html][norang.html]]          | http://doc.norang.ca/org-mode.html          |
-| readtheorg      | [[./readtheorg.html][readtheorg]]           | http://www.pirilampo.org/styles/readtheorg/ |
-| solarized-light | [[./solarized-light.html][solarized-light.html]] | http://thomasf.github.io/solarized-css/     |
-| solarized-dark  | [[./solarized-dark.html][solarized-dark.html]]  | http://thomasf.github.io/solarized-css/     |
-| worg            | [[./worg.html][worg.html]]            | http://orgmode.org/worg/                    |
-| worg-classic    | [[./worg-classic.html][worg-classic.html]]    | http://orgmode.org/worg/                    |
-| worg-zenburn    | [[./worg-zenburn.html][worg-zenburn.html]]    | http://orgmode.org/worg/                    |
+| norang          | [[./norang/norang.html][norang.html]]          | http://doc.norang.ca/org-mode.html          |
+| readtheorg      | [[./readtheorg/readtheorg.html][readtheorg]]           | http://www.pirilampo.org/styles/readtheorg/ |
+| solarized-light | [[./solarized/solarized-light.html][solarized-light.html]] | http://thomasf.github.io/solarized-css/     |
+| solarized-dark  | [[./solarized/solarized-dark.html][solarized-dark.html]]  | http://thomasf.github.io/solarized-css/     |
+| worg            | [[./worg/worg.html][worg.html]]            | http://orgmode.org/worg/                    |
+| worg-classic    | [[./worg/worg-classic.html][worg-classic.html]]    | http://orgmode.org/worg/                    |
+| worg-zenburn    | [[./worg/worg-zenburn.html][worg-zenburn.html]]    | http://orgmode.org/worg/                    |
 
 
 

@@ -1,2 +1,0 @@
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://orgmode.org/worg/style/worg-classic.css"/>
-#+INCLUDE: org-example.org
