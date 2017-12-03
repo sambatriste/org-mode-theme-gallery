@@ -5,7 +5,7 @@
 |-----------------+----------------------+---------------------------------------------|
 | artifice        | [[./artifice/artifice.html][artifice.html]]        | http://cse3521.artifice.cc/                 |
 | bigblow         | [[./bigblow/bigblow.html][bigblow.html]]         | http://www.pirilampo.org/                   |
-| gongzhitaao     | [[./gongzhitaao.html][gongzhitaao.html]]     | http://gongzhitaao.org/orgcss/              |
+| gongzhitaao     | [[./gongzhitaao/gongzhitaao.html][gongzhitaao.html]]     | http://gongzhitaao.org/orgcss/              |
 | norang          | [[./norang.html][norang.html]]          | http://doc.norang.ca/org-mode.html          |
 | readtheorg      | [[./readtheorg.html][readtheorg]]           | http://www.pirilampo.org/styles/readtheorg/ |
 | solarized-light | [[./solarized-light.html][solarized-light.html]] | http://thomasf.github.io/solarized-css/     |
