@@ -3,7 +3,7 @@
 
 | テーマ名(仮)    | サンプルLink         | 元ネタ                                      |
 |-----------------+----------------------+---------------------------------------------|
-| artifice        | [[./artifice.html][artifice.html]]        | http://cse3521.artifice.cc/                 |
+| artifice        | [[./artifice/artifice.html][artifice.html]]        | http://cse3521.artifice.cc/                 |
 | bigblow         | [[./bigblow.html][bigblow.html]]         | http://www.pirilampo.org/                   |
 | gongzhitaao     | [[./gongzhitaao.html][gongzhitaao.html]]     | http://gongzhitaao.org/orgcss/              |
 | norang          | [[./norang.html][norang.html]]          | http://doc.norang.ca/org-mode.html          |
